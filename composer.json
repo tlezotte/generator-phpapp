@@ -1,0 +1,14 @@
+{
+    "require": {
+	"phpunit/phpunit": "*",
+        "phpdocumentor/phpdocumentor": "*",
+	"apache/log4php": "*",
+        "underscore/underscore.php": "*",
+	"nesbot/carbon": "*",
+	"respect/validation": "*",
+	"twig/twig": "*",
+	"imagine/imagine": "*",
+	"itbz/fpdf": "*",
+	"sabre/xml" : "*"
+    }
+}
