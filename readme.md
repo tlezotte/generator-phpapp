@@ -42,6 +42,19 @@ This works if the package author has followed the [Bower spec](https://github.co
 To manually add dependencies, `bower install depName --save` to get the files, then add a `script` or `style` tag to your `index.html` or an other appropriate place.
 
 
+#### PHP Composer Libraries
+* [phpunit/phpunit](http://phpunit.de/) Testing framework
+* [phpdocumentor/phpdocumentor](http://www.phpdoc.org/) Documentation Generator
+* [apache/log4php](http://logging.apache.org/log4php/) A versatile logging framework	
+* [underscore/underscore.php](http://brianhaveri.github.io/Underscore.php/) Underscore.php is a PHP port of Underscore.js
+* [nesbot/carbon](https://github.com/briannesbitt/Carbon) A simple API extension for DateTime
+* [respect/validation](http://documentup.com/Respect/Validation/) The most awesome validation engine
+* [twig/twig](http://twig.sensiolabs.org/) the flexible, fast, and secure template language
+* [imagine/imagine](http://imagine.readthedocs.org/en/latest/) Image processing
+* [itbz/fpdf](http://www.fpdf.org/)
+* [sabre/xml](https://github.com/fruux/sabre-xml) The Sabre XML parser is the only XML library that you may not hate.
+
+
 #### Grunt Serve Note
 
 Note: `grunt server` was previously used for previewing in earlier versions of the project and is being deprecated in favor of `grunt serve`.
